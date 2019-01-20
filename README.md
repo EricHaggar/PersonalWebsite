@@ -1,3 +1,3 @@
 # PersonalWebsite
 
-Check out my [personal website](erichaggar.com)
+Check out my personal [website](https://www.erichaggar.com)
