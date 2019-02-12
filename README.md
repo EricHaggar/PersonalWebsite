@@ -1,3 +1,3 @@
 # PersonalWebsite
 
-My Personal [Website](https://www.erichaggar.com)
+[erichaggar.com](https://www.erichaggar.com)
