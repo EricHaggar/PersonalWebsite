@@ -1,3 +1,3 @@
 # PersonalWebsite
 
-[erichaggar.com](https://www.erichaggar.com)
+Check it out [here](https://www.erichaggar.com)!
